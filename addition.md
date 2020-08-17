@@ -4,7 +4,8 @@ Scenario: Add two numbers
   
   Given I have a calculator and two numbers
 
-  When I enter "number1" and press "+" button and I enter "number2" and press "=" button
+  When I enter "number1" and press "+" button 
+  and I enter "number2" and press "=" button
   
   Then I see the result of addition
 
