@@ -15,7 +15,7 @@ Scenario: Add more numbers
   
   When I enter "number 1" and press "+" button
 and enter "number 2" and press "+" button
-and so on and press "=" button 
+and so on and press "=" button
   
   Then I see the result of addition
   
