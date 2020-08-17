@@ -80,7 +80,7 @@ Scenario: If the number is real/complex
   
   Then (state the effect)
   
-Scenario: If we are in between some operation
+Scenario: If we are in middle of operation
   
   Given (state the initial condition)
   
