@@ -1,12 +1,12 @@
 # Addition
 
-Scenario: (describe a scenario here)
+Scenario: Add two numbers
   
-  Given (state the initial condition)
+  Given I have a working calculator and have two numbers to be added
 
-  When (state the event)
+  When I entered number 1 and press + button and I entered number 2 and press = button
   
-  Then (state the effect)
+  Then I see the result of addition
 
 Scenario: (describe a scenario here)
   
