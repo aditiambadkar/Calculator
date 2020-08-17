@@ -2,9 +2,9 @@
 
 Scenario: Add two numbers
   
-  Given I have a working calculator and have two numbers
+  Given I have a calculator and two numbers
 
-  When I entered number 1 and press + button and I entered number 2 and press = button
+  When I enter "number1" and press "+" button and I enter "number2" and press "=" button
   
   Then I see the result of addition
 
